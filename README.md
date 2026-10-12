@@ -15,8 +15,9 @@
 
 ### Messages and prompts
 
-- [ ] Message types: system, human, AI
+- [x] Message types: system, human, AI
 - [ ] Prompt templates and chat prompt templates
+  - https://docs.langchain.com/langsmith/create-a-prompt
 - [ ] Few-shot prompting
 - [ ] Streaming responses
 - [ ] Batch and async calls
