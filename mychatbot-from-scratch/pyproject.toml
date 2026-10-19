@@ -1,0 +1,20 @@
+[project]
+name = "mychatbot-from-scratch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { email = "elbeqqal.youssef@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai>=3.35.1",
+]
+
+[project.scripts]
+mychatbot-from-scratch = "mychatbot_from_scratch:main"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"
