@@ -1,0 +1,5 @@
+- Chatbot should answer about information that allowed to give and make sure not expose sensitive data.
+- Role user based (e.g employee, admin, manager, RH...)
+  - We need to define all roles that we have
+- Chatbot should check if user already active or have at least valid ID
+- Chatbot can access to user data like what project are belong to, vacations day, salary, start date.

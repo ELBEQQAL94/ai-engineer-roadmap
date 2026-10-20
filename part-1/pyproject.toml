@@ -12,6 +12,7 @@ dependencies = [
     "langchain>=1.4.4",
     "langchain-openai>=1.7.0",
     "langchain-tools>=0.1.34",
+    "langsmith>=0.14.6",
     "openai>=3.27.0",
 ]
 

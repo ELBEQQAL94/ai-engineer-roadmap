@@ -16,10 +16,10 @@
 ### Messages and prompts
 
 - [x] Message types: system, human, AI
-- [ ] Prompt templates and chat prompt templates
+- [x] Prompt templates and chat prompt templates
   - https://docs.langchain.com/langsmith/create-a-prompt
 - [ ] Few-shot prompting
-- [ ] Streaming responses
+- [x] Streaming responses
 - [ ] Batch and async calls
 
 ### Structured output
